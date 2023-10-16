@@ -16,7 +16,7 @@ Here are some of the tools and technologies I work with:
 - **Languages**: Java, JavaScript, PHP
 - **Web Development**: HTML, CSS, Node.js
 - **Desktop Apps & Scripts**: Java Swing, PowerShell
-- **Operating Systems**: Linux (LMDE, Arch), Windows
+- **Operating Systems**: Linux (LMDE 🌿, Arch ❄️), Windows 🪟
 
 ## Connect with Me
 
